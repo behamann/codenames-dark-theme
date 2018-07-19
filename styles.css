@@ -1,0 +1,39 @@
+body {
+    background-color: #232323;
+}
+
+#topbar > a > h1 {
+    color: #fff;
+}
+
+#share {    
+    color: #E2E2E2 !important;
+}
+
+#share > .url {    
+    color: #E2E2E2 !important;
+}
+
+.status-text {
+    background-color: #343434;
+    padding: 1%;
+}
+
+#remaining {
+    color: #fff;
+    display: flex;
+}
+
+.score-span {
+    margin: 5% 10%;
+}
+
+.blue-remaining {
+    background-color: #343434;
+    padding: 5px 15px;
+}
+
+.red-remaining {
+    background-color: #343434;
+    padding: 5px 15px;
+}
